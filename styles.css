@@ -1,0 +1,15 @@
+table,tr,td {
+	border: none;
+	border-collapse: none;
+	border-spacing: 0px;
+}
+
+.cell {
+	font-style: normal;
+	font-size: 5px;
+	font-weight: 700;
+	font-family: Helvetica, Arial, Sans-serif;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
